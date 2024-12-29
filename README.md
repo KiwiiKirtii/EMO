@@ -1,7 +1,7 @@
 # EMOTIW-2015
 
 ## Task
-To detect the emotion of actors using a video and classify them into the 8 universal emotions.
+To classify the emotions of an actor(in a pre recorded video) into the 8 universal emotions.
 
 ---
 
